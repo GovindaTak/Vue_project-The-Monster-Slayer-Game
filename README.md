@@ -35,7 +35,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/yourusername/monster-slayer-game.git](https://github.com/GovindaTak/Vue_project-The-Monster-Slayer-Game.git)
+git clone https://github.com/GovindaTak/Vue_project-The-Monster-Slayer-Game.git
 Navigate to the project directory:
 
 bash
